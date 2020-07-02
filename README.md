@@ -51,7 +51,10 @@
 
 Project: Social media website. [Assignment link](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/49736080/)
 
-
+[Visit the finished project website](https://murmuring-shore-10170.herokuapp.com/)
+<a href="https://murmuring-shore-10170.herokuapp.com/">
+    <img src="app/assets/images/ror-social-app.jpg" width="50%">
+</a>
 ### Built With
 
 - [Ruby](https://www.ruby-lang.org)
@@ -82,7 +85,12 @@ git clone https://github.com/jdmartinez1062/ror-social-scaffold
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Open Console
+1. Visit the web page
+   
+        https://murmuring-shore-10170.herokuapp.com/
+
+
+2. Open Console
 
     
         rails db:migrate
@@ -90,12 +98,11 @@ git clone https://github.com/jdmartinez1062/ror-social-scaffold
         rails server         
     
 
-2. Open your browser, copy and paste in your search bar
+3. Open your browser, copy and paste in your search bar
    
         http://localhost:3000/
 
         
-
 <!-- CONTACT -->
 
 ## Contact
