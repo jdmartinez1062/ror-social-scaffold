@@ -51,6 +51,12 @@
 
 Project: Social media website. [Assignment link](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/49736080/)
 
+Visit the finished project website:
+https://murmuring-shore-10170.herokuapp.com/
+
+<a href="https://murmuring-shore-10170.herokuapp.com/">
+    <img src="app/assets/images/ror-social-app.jpg" width="50%">
+</a>
 
 ### Built With
 
